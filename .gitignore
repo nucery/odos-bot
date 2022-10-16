@@ -1,0 +1,19 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+coverage
+coverage.json
+
+**mnemonic
+**.idea
+
+.env
+**.DS_Store
+.config
+config.json
+config**.json
+**codelab
+**typechain-types
+.openzeppelin/unknown-31337.json
